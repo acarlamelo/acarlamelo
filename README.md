@@ -1,16 +1,16 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Oie,+eu+sou+a+Carla+Melo!;Bem+vindos+ao+meu+perfil+&#10083;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Oie,+eu+sou+a+Carla+Melo!;Bem+vindos+ao+meu+perfil+&#10083;)](https://git.io/typing-svg)
 
  ##### Olá, mundo tecnológico! Aqui estou eu, uma amante da tecnologia pronta para embarcar em uma nova aventura! Meu nome é Carla Melo, e sou apaixonada por tudo relacionado à tecnologia desde que me lembro. Sempre fui fascinada pela forma como a tecnologia pode mudar o mundo, tornando as coisas mais fáceis, rápidas e eficientes.
 
- ##### Mas minha paixão pela tecnologia não é a única coisa que eu defino. Além disso, sou formado em TI e nutrição. Isso me permitiu obter uma visão ampla e única das necessidades de saúde e bem-estar das pessoas, o que acredito ser uma habilidade valiosa na área de tecnologia.
+ ##### Mas minha paixão pela tecnologia não é a única coisa que me define. Além disso, sou formado em TI e nutrição. Isso me permitiu obter uma visão ampla e única das necessidades de saúde e bem-estar das pessoas, o que acredito ser uma habilidade valiosa na área de tecnologia.
 
  ##### Meu contato com TI me ensinou a ser uma solucionadora de problemas ágil e eficiente. Além disso, tenho habilidades em programação e desenvolvimento Front-end pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> o que me permitiu criar soluções personalizadas para problemas específicos.
 
  ##### Estou animada e pronta para enfrentar desafios e alcançar resultados incríveis. Gosto de trabalhar em equipe, aprender com os outros e contribuir com minhas habilidades e conhecimentos.
 
- ##### Então, se você está procurando alguém apaixonado por tecnologia, com uma variedade de habilidades e uma perspectiva única, estou aqui! Vamos trabalhar juntos para criar uma nova era de soluções tecnológicas que tornem a vida mais fácil, mais saudável e mais feliz para todos.
+ ##### Então, se você está procurando alguém apaixonada por tecnologia, com uma variedade de habilidades e uma perspectiva única, estou aqui! Vamos trabalhar juntos para criar uma nova era de soluções tecnológicas que tornem a vida mais fácil, saudável e feliz para todos.
 
 ### 💻 Tecnologias que eu conheço
 
